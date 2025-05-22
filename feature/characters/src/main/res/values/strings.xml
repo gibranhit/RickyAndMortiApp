@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mensajes generales -->
+    <string name="no_characters_message">Todavía no hay personajes</string>
+    <string name="error_title">¡Ups! Algo salió mal.</string>
+    <string name="error_generic">Ocurrió un error</string>
+    <string name="retry_button">Reintentar</string>
+
+    <!-- Status -->
+    <string name="status_alive">Vivo</string>
+    <string name="status_dead">Muerto</string>
+    <string name="status_unknown">Desconocido</string>
+
+    <!-- Gender -->
+    <string name="gender_male">Hombre ♂</string>
+    <string name="gender_female">Mujer ♀</string>
+    <string name="gender_genderless">Sin género</string>
+    <string name="gender_unknown">Desconocido</string>
+
+    <!-- Info de personaje -->
+    <string name="species_label">Especie: %1$s</string>
+    <string name="origin_label">Origen: %1$s</string>
+</resources>
