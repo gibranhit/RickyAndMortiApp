@@ -54,7 +54,8 @@ The app follows SOLID principles and is structured into the following layers:
 
 ## Demo
 
-Coming soon...
+
+![RickAndMortyApp demo](./rickandmortyapp.gif)
 
 ## Author
 
